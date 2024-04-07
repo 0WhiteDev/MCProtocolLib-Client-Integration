@@ -1,0 +1,31 @@
+package us.whitedev.proxy.telnet;
+
+public enum Channels {
+    CHAT,
+    JOIN,
+    DISCONNECTED,
+    MESSAGE,
+    ADDSELECT,
+    REMOVESELECT,
+    CRASH,
+    CRASHLIST,
+    CLIENT,
+    MOVE,
+    LOOK,
+    POSLOOK,
+    WINDOW,
+    BLOCKPLACE,
+    ARM,
+    KEEPALIVE,
+    SLOT,
+    WCLOSE,
+    TRANSACTION,
+    PREMIUMJOIN,
+    ALTENINGJOIN,
+    EASYMC,
+    CAPTCHA1,
+    CAPTCHA2,
+    PROXY,
+    RESPAWN,
+    SESSIONCONNECT
+}
