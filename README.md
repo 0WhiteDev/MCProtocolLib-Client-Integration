@@ -106,7 +106,7 @@ If you need to learn more about McProtocolLib, I encourage you to go to the webs
 
 ## Project Suppot
 If you need help, text to me:
-- Discord: 0whtiedev / 0WhiteDev#0001
+- Discord: 0whitedev / 0WhiteDev#0001
 - Discord Server: https://discord.gg/KhExwvqZb5
 - Email: 0whitedev@gmail.com
 ## Authors
